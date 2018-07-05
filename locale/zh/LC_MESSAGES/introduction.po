@@ -85,14 +85,14 @@ msgstr "MongoDB提供高性能的数据持久化。特别是，"
 # 62957ada8e434845bc467cccea49d980
 #: ../source/introduction.txt:43
 msgid "Support for embedded data models reduces I/O activity on database system."
-msgstr ""
+msgstr "支持嵌入式数据库模型，以减少 I/O 性能损耗。"
 
 # 9766669854904a97b82d8541b8c727f6
 #: ../source/introduction.txt:46
 msgid ""
 "Indexes support faster queries and can include keys from embedded "
 "documents and arrays."
-msgstr ""
+msgstr "索引支持快速查询，并可将文档与数组作为索引。"
 
 # 065a6182be9541778aa637062c84e3a8
 #: ../source/introduction.txt:50
@@ -104,12 +104,12 @@ msgstr "丰富的查询语言"
 msgid ""
 "MongoDB supports a rich query language to support :doc:`read and write "
 "operations (CRUD) </crud>` as well as:"
-msgstr ""
+msgstr "MongoDB 拥有一套完整全面的语言以进行增删改查（CRUD)操作。"
 
 # 6567dd6efca0451e92a67eccbf3c4324
 #: ../source/introduction.txt:55
 msgid ":doc:`Data Aggregation </core/aggregation-pipeline>`"
-msgstr ""
+msgstr ":doc:`聚合管道 </core/aggregation-pipeline>`"
 
 # 21981471477c4ca5b6ee31dc96e2e722
 #: ../source/introduction.txt:57
